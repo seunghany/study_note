@@ -1,0 +1,10 @@
+Normal Distribution or Gauss Distribution
+
+는 연속 확률(discrete) 분포의 하나이다. 정규분포는 수집된 자료의 분포를 근사하는 데에 자주 사용되며, 이것은 중심극한정리(Central Limit theorem)에 의하여 독립적인 확률변수들(Random Varioable)의 평균은 정규분포에 가까워지는 성질이 있기 때문이다.
+
+
+Normal Distribution has 2 parameters ( 평균 {μ } 와 표준편차 {σ} ) 가 있다. 
+	-  μ -> 평균
+	-  σ -> Standard Deviation 표준편차가 작을수록 평균값에서 변량들의 거리가 가깝다
+		- 편차(deviation)는 관측값에서 평균 또는 중앙값을 뺀 것이다.
+ 

@@ -1,0 +1,10 @@
+확률 분포(한국 한자: 確率 分布, probability distribution)는 확률 변수가 특정한 값을 가질 확률을 나타내는 함수를 의미한다. 예를 들어, 주사위를 던졌을 때 나오는 눈에 대한 확률변수가 있을 때, 그 변수의 확률분포는 이산균등분포가 된다.
+
+확률 분포는 확률 변수가 어떤 종류의 값을 가지는가에 따라서 크게 이산 확률 분포와 연속 확률 분포 중 하나에 속하며, 둘 중 어디에도 속하지 않는 경우도 존재한다.
+
+- 확률 분포는 2가리로 나뉜다
+1. Discrete Probability Distribution (이산 확률 분포)
+	- 셀 수 있는것 Countable
+2. Continuous probability Distribution (연속 확률 분포)
+	- X cam be assume one of an infinite (uncountable) 
+
